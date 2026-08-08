@@ -21,12 +21,23 @@ I'm a Data & Machine Learning Enthusiast focused on building and optimizing Deep
 
 ---
 
+⚡ **Currently Learning/Building:** Multimodal AI Systems (LLMs + Computer Vision) & RAG-based Chatbots
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 * **Languages:** Python
 * **Frameworks & Libraries:** TensorFlow, Keras, Scikit-Learn, NumPy, Pandas
 * **Visualization & EDA:** Matplotlib, Seaborn
 * **Platforms:** Kaggle, GitHub, Jupyter Notebooks
+  
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -34,6 +45,10 @@ I'm a Data & Machine Learning Enthusiast focused on building and optimizing Deep
 
 * 🌐 **Kaggle:** [Dyyah](https://www.kaggle.com/dyyahqurniatun)
 * 🐙 **GitHub:** [dyyqrn](https://github.com/dyyqrn)
+* 💼 **LinkedIn:** [Dyyah Qurniatun](https://www.linkedin.com/in/dyyahqurniatun)
+
+---
+
 
 <!--
 **dyyqrn/dyyqrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
