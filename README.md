@@ -11,11 +11,11 @@ I'm a Data & Machine Learning Enthusiast focused on building and optimizing Deep
   * Applied data augmentation (`ImageDataGenerator`), adaptive learning rate schedules (`ReduceLROnPlateau`), and dropout regularization.
   * Achieved **99.55% validation accuracy** and a **0.99442 test score** on Kaggle.
 
-* 🩺 **Student Health Prediction**
+* 🩺 **[Student Health Prediction](https://github.com/dyyqrn/Predict-Student-Health-Risk)**
   * Built a machine learning pipeline to analyze and predict student health indicators and well-being metrics.
   * Conducted extensive exploratory data analysis (EDA), feature engineering, and classification modeling to identify key risk factors.
 
-* 🚢 **Titanic Machine Learning from Disaster**
+* 🚢 **[Titanic Machine Learning from Disaster](https://github.com/dyyqrn/titanic-competition)**
   * Modeled survival prediction using binary classification techniques on the classic Kaggle Titanic dataset.
   * Handled missing value imputation, engineered demographic and cabin-based features, and optimized classifier performance.
 
@@ -30,18 +30,9 @@ I'm a Data & Machine Learning Enthusiast focused on building and optimizing Deep
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyyqrn&show_icons=true&theme=tokyonight" alt="dyyqrn's Github Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyyqrn&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📬 Connect with Me
 
-* 🌐 **Kaggle:** [dyyahqurniatun](https://www.kaggle.com/dyyahqurniatun)
+* 🌐 **Kaggle:** [Dyyah](https://www.kaggle.com/dyyahqurniatun)
 * 🐙 **GitHub:** [dyyqrn](https://github.com/dyyqrn)
 
 <!--
