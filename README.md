@@ -2,6 +2,8 @@
 
 I'm a Data & Machine Learning Enthusiast focused on building and optimizing Deep Learning models, Computer Vision pipelines, and Predictive Analytics projects.
 
+⚡ **Currently Learning/Building:** Multimodal AI Systems (LLMs + Computer Vision) & RAG-based Chatbots
+
 ---
 
 ### 🚀 Key Project Spotlight
@@ -21,18 +23,8 @@ I'm a Data & Machine Learning Enthusiast focused on building and optimizing Deep
 
 ---
 
-⚡ **Currently Learning/Building:** Multimodal AI Systems (LLMs + Computer Vision) & RAG-based Chatbots
-
----
-
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** Python
-* **Frameworks & Libraries:** TensorFlow, Keras, Scikit-Learn, NumPy, Pandas
-* **Visualization & EDA:** Matplotlib, Seaborn
-* **Platforms:** Kaggle, GitHub, Jupyter Notebooks
-  
-## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -45,7 +37,7 @@ I'm a Data & Machine Learning Enthusiast focused on building and optimizing Deep
 
 * 🌐 **Kaggle:** [Dyyah](https://www.kaggle.com/dyyahqurniatun)
 * 🐙 **GitHub:** [dyyqrn](https://github.com/dyyqrn)
-* 💼 **LinkedIn:** [Dyyah Qurniatun](https://www.linkedin.com/in/dyyahqurniatun)
+* 💼 **LinkedIn:** [Dyyah](https://www.linkedin.com/in/dyyahqurniatun)
 
 ---
 
