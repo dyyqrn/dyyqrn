@@ -2,7 +2,7 @@
 
 I'm a Data & Machine Learning Enthusiast focused on building and optimizing Deep Learning models, Computer Vision pipelines, and Predictive Analytics projects.
 
-⚡ **Currently Learning/Building:** Multimodal AI Systems (LLMs + Computer Vision) & RAG-based Chatbots
+⚡ **Currently Exploring:** Deep Learning, Computer Vision, multimodal AI, and RAG-based applications.
 
 ---
 
